@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/10-Final-Project-Grant-Marcketta/static/css/main.e03fdeae.chunk.css",
+    "main.js": "/10-Final-Project-Grant-Marcketta/static/js/main.001ee4f5.chunk.js",
+    "main.js.map": "/10-Final-Project-Grant-Marcketta/static/js/main.001ee4f5.chunk.js.map",
+    "runtime-main.js": "/10-Final-Project-Grant-Marcketta/static/js/runtime-main.985609d3.js",
+    "runtime-main.js.map": "/10-Final-Project-Grant-Marcketta/static/js/runtime-main.985609d3.js.map",
+    "static/js/2.9caa94b5.chunk.js": "/10-Final-Project-Grant-Marcketta/static/js/2.9caa94b5.chunk.js",
+    "static/js/2.9caa94b5.chunk.js.map": "/10-Final-Project-Grant-Marcketta/static/js/2.9caa94b5.chunk.js.map",
+    "index.html": "/10-Final-Project-Grant-Marcketta/index.html",
+    "precache-manifest.7e31cfc4f1b6dc5fc9695d388e35d517.js": "/10-Final-Project-Grant-Marcketta/precache-manifest.7e31cfc4f1b6dc5fc9695d388e35d517.js",
+    "service-worker.js": "/10-Final-Project-Grant-Marcketta/service-worker.js",
+    "static/css/main.e03fdeae.chunk.css.map": "/10-Final-Project-Grant-Marcketta/static/css/main.e03fdeae.chunk.css.map",
+    "static/js/2.9caa94b5.chunk.js.LICENSE.txt": "/10-Final-Project-Grant-Marcketta/static/js/2.9caa94b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.985609d3.js",
+    "static/js/2.9caa94b5.chunk.js",
+    "static/css/main.e03fdeae.chunk.css",
+    "static/js/main.001ee4f5.chunk.js"
+  ]
+}
